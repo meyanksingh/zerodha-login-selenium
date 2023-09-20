@@ -22,11 +22,11 @@ pip install -r requirements.txt
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/zerodha-automation.git
+git clone https://github.com/your-username/zerodha-automation.git](https://github.com/meyanksingh/zerodha-login-selenium
 ```
 2. Navigate to the project directory:
 ```bash
-cd zerodha-automation
+cd zerodha-login-selenium
 ```
 3. Replace the following placeholders with your Zerodha credentials:
 
